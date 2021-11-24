@@ -1,9 +1,6 @@
 # deel-assignment
 Automation assignment using Cyptess
 
-# cypress-assignment
-Cypress assignment using JScript
-
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Structure](#Structure)
