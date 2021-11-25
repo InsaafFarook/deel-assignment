@@ -28,9 +28,8 @@ All the test files are placed here. Based on modules can organize the test files
 
 ## lib
 There are 4 sub folders under lib.
-  - functions : Application specific functions to be placed here. These methods will be used in the test layer.
+  - functions : Application specific page elements and methods to be placed here. These methods will be used in the test layer.
   - helpers : Application domain specific helper methods to be placed here. Such as generating session cookie, retreive data from external apis and etc.
-  - pages : Application page specific elements and methods to be placed here.
   - utils : Utlity functions like currency conversions, date/time conversions can be placed here.
 
 ## plugins

@@ -1,0 +1,6 @@
+{
+  "name" : "deel-assignment",
+  "env" : {
+    "login_url_training" : "https://app.deel.training/login"
+  }
+}
