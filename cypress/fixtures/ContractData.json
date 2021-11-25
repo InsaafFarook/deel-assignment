@@ -1,0 +1,10 @@
+{
+  "fixedContract" : {
+    "entity" : "Temp Company Name",
+    "contractName" : "Contract 1",
+    "jobTitle" : "Software Engineer",
+    "seniorityLevel" : "Mid (Individual Contributor Level 2)",
+    "scope" : "Test Scope - AAAAAAAAAA AAAAAAAAAAAAA AAAAAAAAAAAAA",
+    "contractDate" : -1
+  }
+}

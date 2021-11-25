@@ -1,6 +1,5 @@
 /// <reference types="cypress" />
 
-const lblLogIn = '.semi-bold text-center'
 const txtEmail = 'input[name="email"]';
 const txtPassword = 'input[name="password"]';
 const btnLogIn = 'button[type="submit"]';

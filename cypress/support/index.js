@@ -20,3 +20,5 @@ import './commands'
 // require('./commands')
 
 import '@shelex/cypress-allure-plugin';
+
+require('cypress-xpath');

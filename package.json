@@ -23,6 +23,7 @@
   "homepage": "https://github.com/InsaafFarook/deel-assignment#readme",
   "devDependencies": {
     "@shelex/cypress-allure-plugin": "^2.22.0",
-    "cypress": "^9.1.0"
+    "cypress": "^9.1.0",
+    "cypress-xpath": "^1.6.2"
   }
 }
